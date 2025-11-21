@@ -55,5 +55,11 @@ The conceptual workflow of the project is shown below:
 
 ![Workflow Diagram](figures/Skin.drawio.png)
 
+## ⚙️ Running the Notebook
 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Kim-Gaik-Tay/yourrepository.git
+cd yourrepository/notebooks
 

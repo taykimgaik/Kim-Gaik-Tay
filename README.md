@@ -49,7 +49,11 @@ dataset/
     ├── class3/
     └── class4/
 </pre>
+## 🌐 Workflow Diagram
 
+The conceptual workflow of the project is shown below:
+
+![Workflow Diagram](figures/workflow_diagram.png)
 
 
 

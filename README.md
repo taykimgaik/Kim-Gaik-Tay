@@ -53,7 +53,7 @@ dataset/
 
 The conceptual workflow of the project is shown below:
 
-![Workflow Diagram](figures/workflow_diagram.png)
+![Workflow Diagram](figures/Skin.drawio.png)
 
 
 

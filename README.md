@@ -1,7 +1,7 @@
 # A Skin Disease Identification Using CNNs for Childcare Applications
 
 This repository contains the supplementary code and workflow for the manuscript:
-##Title: A website-based skin disease identification using a Convolution Neural Network for childcare applications
+**Title: A website-based skin disease identification using a Convolution Neural Network for childcare applications
 ##Author(s): Shehab Alzaeemi, Kim Gaik Tay, Ghassan Ahmed Ali, Adnan Ameen Abdullah Bakather, Audrey Huong, Muhammad Hakimi Ashraf Bin Mohd Thulhah, Ren Yu Lai
 ##Year: 2025
 ##Project Overview

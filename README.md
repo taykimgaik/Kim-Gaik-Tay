@@ -13,10 +13,9 @@ project/
 └── figures/
 └── workflow_diagram.png # Workflow diagram illustrating project steps
 
-## 📊 Dataset Structure
-The dataset used in this study **cannot be publicly released** due to copyright and privacy restrictions.  
-However, the code is compatible with any dataset following the structure below:
-```
+## 📁 Dataset Structure
+
+<pre>
 dataset/
 ├── train/
 │   ├── class1/
@@ -33,6 +32,8 @@ dataset/
     ├── class2/
     ├── class3/
     └── class4/
+</pre>
+
 
 
 

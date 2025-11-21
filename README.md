@@ -17,8 +17,23 @@ project/
 
 The dataset used in this study **cannot be publicly released** due to copyright and privacy restrictions.  
 However, the code is compatible with any dataset following the structure below:
-
-
+```
+dataset/
+├── train/
+│ ├── class1/
+│ ├── class2/
+│ ├── class3/
+│ └── class4/
+├── val/
+│ ├── class1/
+│ ├── class2/
+│ ├── class3/
+│ └── class4/
+└── test/
+├── class1/
+├── class2/
+├── class3/
+└── class4/
 
 
 

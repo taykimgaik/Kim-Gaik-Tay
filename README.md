@@ -60,6 +60,7 @@ The conceptual workflow of the project is shown below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Kim-Gaik-Tay/yourrepository.git
-cd yourrepository/notebooks
+git clone https://github.com/taykimgaik/Kim-Gaik-Tay.git
+cd Kim-Gaik-Tay/notebooks
+
 

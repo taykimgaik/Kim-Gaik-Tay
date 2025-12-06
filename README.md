@@ -69,7 +69,7 @@ If you use this code in your research, please cite our paper (citation details w
 For questions about this repository, please contact [tay@uthm.edu.my].
 
 📜 License
-[Add your license here, e.g., MIT License]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 1. Clone the repository:
 ```bash

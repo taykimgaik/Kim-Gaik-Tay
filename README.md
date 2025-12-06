@@ -23,7 +23,7 @@ project/
 ├── notebooks/
 │ ├── single_split.ipynb # Training and evaluation using single data split
 │ ├── nested_5fold.ipynb # Nested 5-fold cross-validation workflow
-│ └── web_app.ipynb # Web application deployment
+│ 
 ├── requirements.txt # Python dependencies
 └── figures/
 └── workflow_diagram.png # Workflow diagram illustrating project steps

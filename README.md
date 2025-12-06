@@ -1,8 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # A Skin Disease Identification Using CNNs for Childcare Applications
-...
-# A Skin Disease Identification Using CNNs for Childcare Applications
 
 This repository contains the supplementary code and workflow for the manuscript:
 

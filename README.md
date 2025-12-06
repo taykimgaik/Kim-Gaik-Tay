@@ -48,10 +48,25 @@ dataset/
     └── class4/
 </pre>
 
-💾 Model and Web Deployment Notes
-Trained Model Weights: The final trained model weights have been excluded from this repository as they exceed GitHub's maximum file size limit (25MB).
 
-Web Application (web.py): The code for the Gradio-based demonstration interface has been omitted. This decision was made to maintain a streamlined repository focused on the core research scripts, as the web application requires large external dependencies (like TensorFlow) and the excluded model file.
+## 💾 Model and Web Deployment Notes
+
+**Trained Model Weights:** The final trained model weights have been excluded from this repository as they exceed GitHub's maximum file size limit (25MB).
+
+**Web Application (web.py):** The code for the Gradio-based demonstration interface has been omitted. This decision was made to maintain a streamlined repository focused on the core research scripts, as the web application requires large external dependencies (like TensorFlow) and the excluded model file.
+
+## 🌐 Workflow Diagram
+
+The conceptual workflow of the project is shown below:
+
+![Workflow Diagram](figures/Skin.drawio.png)
+
+## ⚙️ Installation and Usage
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/skin-disease-identification.git
+cd skin-disease-identification/notebooks
 
 ## 🌐 Workflow Diagram
 

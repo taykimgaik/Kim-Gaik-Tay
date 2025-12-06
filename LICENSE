@@ -1,0 +1,10 @@
+# Quick setup
+echo "MIT License
+
+Copyright (c) 2025 Shehab Alzaeemi, Kim Gaik Tay, Ghassan Ahmed Ali, Adnan Ameen Abdullah Bakather, Audrey Huong, Muhammad Hakimi Ashraf Bin Mohd Thulhah, Ren Yu Lai
+
+[Rest of MIT license text...]" > LICENSE
+
+git add LICENSE
+git commit -m "Add MIT License"
+git push

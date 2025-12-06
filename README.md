@@ -13,7 +13,7 @@ Shehab Alzaeemi, Kim Gaik Tay, Ghassan Ahmed Ali, Adnan Ameen Abdullah Bakather,
 
 ##Project Overview
 
-The project focuses on classifying skin disease images into four classes using transfer learning with the InceptionV3 pretrained convolutional neural network (CNN). It includes a comparison between a single data split with a ratio of 0.8:0.1:0.1 and a nested 5-fold cross-validation approach, as well as the development of a web application for childcare use.
+The project focuses on classifying skin disease images into four classes using transfer learning with the InceptionV3 pretrained convolutional neural network (CNN). It includes a comparison between a single data split with a ratio of 0.8:0.1:0.1 and a nested 5-fold cross-validation approach.
 This code is provided to enhance transparency and reproducibility in response to reviewer comments.
 
 ## 📁 Repository Structure

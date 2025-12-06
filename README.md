@@ -65,6 +65,12 @@ The conceptual workflow of the project is shown below:
 If you use this code in your research, please cite our paper (citation details will be added upon publication).
 ## ⚙️ Installation and Usage
 
+📧 Contact
+For questions about this repository, please contact [tay@uthm.edu.my].
+
+📜 License
+[Add your license here, e.g., MIT License]
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/skin-disease-identification.git

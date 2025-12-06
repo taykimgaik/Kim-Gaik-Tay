@@ -1,5 +1,5 @@
-# Quick setup
-echo "MIT License
+
+MIT License
 
 Copyright (c) 2025 Shehab Alzaeemi, Kim Gaik Tay, Ghassan Ahmed Ali, Adnan Ameen Abdullah Bakather, Audrey Huong, Muhammad Hakimi Ashraf Bin Mohd Thulhah, Ren Yu Lai
 
@@ -21,6 +21,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-git add LICENSE
-git commit -m "Add MIT License"
-git push

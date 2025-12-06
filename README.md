@@ -1,4 +1,3 @@
-# A Skin Disease Identification Using CNNs for Childcare Applications
 
 # A Skin Disease Identification Using CNNs for Childcare Applications
 
@@ -17,15 +16,12 @@ The project focuses on classifying skin disease images into four classes using t
 This code is provided to enhance transparency and reproducibility in response to reviewer comments.
 
 ## 📁 Repository Structure
-
-## 📁 Repository Structure
 ```
 project/
 ├── README.md
 ├── notebooks/
 │ ├── single_split.ipynb # Training and evaluation using single data split
-│ ├── nested_5fold.ipynb # Nested 5-fold cross-validation workflow
-│ 
+│ └── nested_5fold.ipynb # Nested 5-fold cross-validation workflow
 ├── requirements.txt # Python dependencies
 └── figures/
 └── workflow_diagram.png # Workflow diagram illustrating project steps

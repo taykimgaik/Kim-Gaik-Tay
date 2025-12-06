@@ -61,6 +61,8 @@ The conceptual workflow of the project is shown below:
 
 ![Workflow Diagram](figures/Skin.drawio.png)
 
+📄 Citation
+If you use this code in your research, please cite our paper (citation details will be added upon publication).
 ## ⚙️ Installation and Usage
 
 1. Clone the repository:
@@ -68,18 +70,5 @@ The conceptual workflow of the project is shown below:
 git clone https://github.com/yourusername/skin-disease-identification.git
 cd skin-disease-identification/notebooks
 
-## 🌐 Workflow Diagram
-
-The conceptual workflow of the project is shown below:
-
-![Workflow Diagram](figures/Skin.drawio.png)
-
-## ⚙️ Running the Notebook
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/taykimgaik/Kim-Gaik-Tay.git
-cd Kim-Gaik-Tay/notebooks
 
 

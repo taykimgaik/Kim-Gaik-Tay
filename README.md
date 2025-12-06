@@ -1,4 +1,7 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# A Skin Disease Identification Using CNNs for Childcare Applications
+...
 # A Skin Disease Identification Using CNNs for Childcare Applications
 
 This repository contains the supplementary code and workflow for the manuscript:
@@ -46,8 +49,6 @@ dataset/
     ├── class2/
     ├── class3/
     └── class4/
-</pre>
-
 
 ## 💾 Model and Web Deployment Notes
 
@@ -61,20 +62,23 @@ The conceptual workflow of the project is shown below:
 
 ![Workflow Diagram](figures/Skin.drawio.png)
 
-📄 Citation
-If you use this code in your research, please cite our paper (citation details will be added upon publication).
 ## ⚙️ Installation and Usage
-
-📧 Contact
-For questions about this repository, please contact [tay@uthm.edu.my].
-
-📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/skin-disease-identification.git
 cd skin-disease-identification/notebooks
+
+📄 Citation
+If you use this code in your research, please cite our paper (citation details will be added upon publication).
+
+📧 Contact
+For questions about this repository, please contact tay@uthm.edu.my.
+
+📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
 
 
